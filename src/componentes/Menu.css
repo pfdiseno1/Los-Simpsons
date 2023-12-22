@@ -1,0 +1,11 @@
+.menu{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: auto;
+    padding: 5px;
+    background-color: rgb(78, 78, 209);
+}
+
+  
